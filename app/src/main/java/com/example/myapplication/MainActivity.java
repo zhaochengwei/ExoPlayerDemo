@@ -33,6 +33,6 @@ public class MainActivity extends AppCompatActivity {
         player.play();
         playerView.setPlayer(player);
 
-        player.release();
+        //player.release();
     }
 }
